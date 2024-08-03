@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/v1/factura")
+@RequestMapping("/api/factura")
 public class FacturaController {
 
     @Autowired
